@@ -5,7 +5,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Popular Sites to Job Hunt
 * AngelList: https://angel.co
 * Mashable: http://jobs.mashable.com/jobs
-* StackOverflow: http://stackoverflow.com/jobs
 * LinkedIn: http://linkedIn.com
 * Glassdoor: http://glassdoor.com
 * Dice: http://dice.com
@@ -77,7 +76,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## Junior Dev Jobs
 * JrDevJobs: http://jrdevjobs.com
-* Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
 
 ## Women focused job boards!
 * Women Who Code: http://womenwhocode.com/jobs
